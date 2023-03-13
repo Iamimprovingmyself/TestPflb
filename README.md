@@ -17,7 +17,7 @@
   
   Тесты лежат в <a href="https://github.com/Iamimprovingmyself/TestPflb/tree/main/src/test/resources/features" target="_blank">features<a/>
   
-  Для запуска ui тестов использовать файл "src/test/java/ru/dns/framework/<a href="https://github.com/Iamimprovingmyself/TestPflb/tree/main/src/main/java/ru/dns/framework/steps/Steps.java" target="_blank">CucumberRunner.Java<a/>"
+  Для запуска ui тестов использовать файл "src/test/java/ru/dns/framework/<a href="https://github.com/Iamimprovingmyself/TestPflb/blob/main/src/test/java/ru/dns/framework/CucumberRunner.java" target="_blank">CucumberRunner.Java<a/>"
   
   API часть реализована с помощью:
   1. Rest Assured
